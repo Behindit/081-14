@@ -1,5 +1,6 @@
-# 081-14
-Curso_Programacion_2022_1
+# INFO081-17
+
+Curso Programacion 2022-1
 
 ## Horario
 
