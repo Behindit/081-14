@@ -33,10 +33,20 @@ Asistencia Recomendable
 Una vez a la semana
 A partir de abril
 
+### Asistencia a Ayudantias
+
+Menos 75%: Sin puntaje adicional
+
+75-80%: 0.2 puntos para la primera global formativa
+
+81-90%: 0.2 puntos para la segunda global formativa
+
+91-100%: 0.2 puntos para la tercera global formativa
+
 ## Temas
 
-Entornos de python: Graficos,String,Contenedores.
+Control 1: Entornos de python: Graficos,String,Contenedores.
 
-Manejo de errores,archivos de texto,recursividad
+Control 2: Manejo de errores,archivos de texto,recursividad
 
-El entorno de programacion en c++
+Control 3: El entorno de programacion en c++
