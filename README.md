@@ -25,15 +25,15 @@ Asistencia Recomendable
 | Control 1         | 18-abril    | 9:50          | Unida 1      |
 | Control 2         | 23-mayo     | 9:50          | Unida 2      |
 | Control 2         | 04-julio    | 9:50          | Unida 3      |
-| Sustitutiva       | 07-julio    | 8:10          |              |
-| 2da. Evaluacion   |             |               |              |
+| Sustitutiva       | 07-julio    | 8:10          | Global       |
+| 2da. Evaluacion   |             |               | Global       |
 
 ## Ayudantias
 
 Una vez a la semana
 A partir de abril
 
-### Asistencia a Ayudantias
+### *Asistencia a Ayudantias*
 
 Menos 75%: Sin puntaje adicional
 
@@ -47,6 +47,6 @@ Menos 75%: Sin puntaje adicional
 
 Control 1: Entornos de python: Graficos,String,Contenedores.
 
-Control 2: Manejo de errores,archivos de texto,recursividad
+Control 2: Manejo de errores,archivos de texto,recursividad.
 
-Control 3: El entorno de programacion en c++
+Control 3: El entorno de programacion en c++.
