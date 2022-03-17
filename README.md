@@ -1,5 +1,5 @@
 # 081-14
-Curso_Programacion_2022_1
+Curso Programacion 2022 Semestre 1
 
 ## Evaluacion
 
