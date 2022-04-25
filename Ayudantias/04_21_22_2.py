@@ -87,16 +87,16 @@ def dibujaNariz():
 
 def dibujaBoca():
     color('black')
-    right(50)
+    right(45)
     pensize(5)
     circle(30, 180)
     penup()
     setpos(0, 75)
     pendown()
     color('black')
-    left(360)
+    left(270)
     pensize(5)
-    circle(30, 180)
+    circle(30, -180)
     penup()
 
 
